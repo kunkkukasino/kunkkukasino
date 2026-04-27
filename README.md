@@ -1,16 +1,15 @@
-## Hi there 👋
+# Kunkku Kasino
 
-<!--
-**kunkkukasino/kunkkukasino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Kunkku Kasino](http://kunkkukasino.com) is a modern **Pay'n Play** online casino launched in March 2024, designed specifically for Finnish players. 
 
-Here are some ideas to get you started:
+## Key Features
+* **Game Selection:** A rich library of over **2,000 games**, including popular slots, live casino, table games, and Megaways titles.
+* **Welcome Offer:** New players are greeted with a strong welcome offer.
+* **Payments:** Deposits and withdrawals are fast and seamless via **Trustly**.
+* **Loyalty Programs:** * **Kunkkukioski:** A loyalty program featuring tasks, level-ups, and rewards.
+    * **VIP Program:** Dedicated service for active players.
+* **Mobile Optimized:** The platform is fully mobile-friendly for gaming on the go.
+* **Safety & Security:** * Holds a **Malta Gaming Authority (MGA)** license.
+    * Promotes **responsible gambling** with dedicated tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit the site: [http://kunkkukasino.com](http://kunkkukasino.com)
